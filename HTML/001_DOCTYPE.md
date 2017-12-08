@@ -12,10 +12,10 @@
 		<!DOCTYPE html>
 - **HTML 4.01 Strict**
 	这个`DTD`包含所有的HTML元素和属性，但<strong>不包括</strong>表象或过时的元素(如`font`)。框架集是不允许的。
-		<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">  <!-- strict 严格的  精确的 -->
+	<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">  <!-- strict 严格的  精确的 -->
 - **HTML 4.01 Transitional**
 	这个`DTD`包含所有的HTML元素和属性，<strong>包括</strong>表象或过时的元素（如：`font`）。框架集是不允许的。
-		<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">  <!-- loose 自由的  散漫的 -->
+	<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">  <!-- loose 自由的  散漫的 -->
 - **HTML 4.01 Frameset**
 	这个DTD与HTML 4.01 Transitional相同，但是允许使用框架集内容
-		<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN" "http://www.w3.org/TR/html4/frameset.dtd">
+	<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN" "http://www.w3.org/TR/html4/frameset.dtd">
