@@ -29,7 +29,7 @@ HTML是HyperText Markup Language（超文本标记语言）的缩写，是标准
 - `<style></style>` 标签：
 	- 定义html文档的样式信息，每个html文档能包含多个`<style></style>`标签；
 	- 在`HTML4.01`中,每个`<style></style>`标签必须位于head头部区域；
-	- 在`HTML5`中，如果使用“scoped”属性，则所规定的样式只能应用到`<style></style>`元素的父元素及其子元素。<font color=#f40>(自己未验证成功)</font>
+	- 在`HTML5`中，如果使用“scoped”属性，则所规定的样式只能应用到`<style></style>`元素的父元素及其子元素。<font color=#f4400>(自己未验证成功)</font>
 - `<script></script>` 标签：
 	- 该标签用于定义客户端脚本，比如 JavaScript。
 	- `<script>`元素既可包含脚本语句，也可以通过"src"属性指向外部脚本文件，如果使用 "src"属性，则`<script>`元素必须是空的。
