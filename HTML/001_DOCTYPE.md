@@ -15,6 +15,7 @@
 	```
 	
 - **HTML 4.01 Strict**
+
 	这个`DTD`包含所有的HTML元素和属性，但<strong>不包括</strong>表象或过时的元素(如`font`)。框架集是不允许的。
 	
 	```html
@@ -23,6 +24,7 @@
 	```
 	
 - **HTML 4.01 Transitional**
+
 	这个`DTD`包含所有的HTML元素和属性，<strong>包括</strong>表象或过时的元素（如：`font`）。框架集是不允许的。
 	
 	```html
@@ -31,6 +33,7 @@
 	```
 	
 - **HTML 4.01 Frameset**
+
 	这个DTD与HTML 4.01 Transitional相同，但是允许使用框架集内容
 	
 	```html
